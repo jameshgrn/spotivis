@@ -1,0 +1,4 @@
+.env
+.venv/
+.whisper/
+.history/
